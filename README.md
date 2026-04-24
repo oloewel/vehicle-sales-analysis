@@ -1,13 +1,13 @@
-#Vehicle Sales Analysis
+# Vehicle Sales Analysis
 
-##File
+## File
 
 Power BI file included in /reports
 Datalink https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data?resource=download
 
 ---
 
-##Overview
+## Overview
 This project analyzes vehicle sales data to uncover trends in sales volume, pricing and brand performance.
 
 The goal is to simulate a real-world data analysis workflow:
@@ -17,7 +17,7 @@ The goal is to simulate a real-world data analysis workflow:
 
 ---
 
-##Key insights
+## Key insights
 
 -Ford dominates the market through high sales volume
 -Premium brands achieve high prices but low sales volume
@@ -25,7 +25,7 @@ The goal is to simulate a real-world data analysis workflow:
 
 ---
 
-##Data Preparation
+## Data Preparation
 
 -Removed missing brand values (handled as "Unknown")
 -Identified and corrected pricing outliers (e.g. scaling errors)
@@ -33,7 +33,7 @@ The goal is to simulate a real-world data analysis workflow:
 
 ---
 
-##Dashboard
+## Dashboard
 
 ###Main Overview
 ![Dashboard](images/dashboard_overview.png)
