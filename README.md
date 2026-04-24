@@ -36,10 +36,10 @@ The goal is to simulate a real-world data analysis workflow:
 
 ## Dashboard
 
-###Main Overview
+### Main Overview
 ![Dashboard](images/dashboard_overview.png)
 
-###Outlier Analysis
+### Outlier Analysis
 ![Outliers](images/outlier_analysis.png)
 
 ---
